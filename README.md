@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Aluraflix - Cadastro de Filmes permite a entrada de dados (URL da imagem) por meio de um input (certifique-se que o formato da imagem cadastrada seja PNG, JPG ou relacionadas), sendo possível cadastrar mais de um filme.
 
-- [ Visite o projeto online ]()
+- [ Visite o projeto online ](https://lipeharakawa.github.io/aluraflix_cadastro_filmes-html-css-js)
 
 ## 🔖 Layout
 
