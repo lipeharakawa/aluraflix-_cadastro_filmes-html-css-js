@@ -1,4 +1,4 @@
-<h1 align="center"> Aluraflix - Cadastro de Filmes </h1>
+<h1 align="center">Aluraflix - Cadastro de Filmes</h1>
 
 <p align="center">
 Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB. <br/>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Aluraflix - Cadastro de Filmes permite a entrada de dados (URL da imagem) por meio de um input (certifique-se que o formato da imagem cadastrada seja PNG, JPG ou JPEG), sendo possível cadastrar mais de um filme.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/aluraflix_cadastro_filmes-html-css-js)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/aluraflix-cadastro-filmes)
 
 ## 🔖 Layout
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 🧡 por Felipe Seidi Harakawa, durante o evento Imersão Dev da Alura. [ Visite o site! ](https://www.alura.com.br)
+Feito com ❤️ por Felipe Seidi Harakawa, durante o evento Imersão Dev da Alura. [ Visite o site! ](https://www.alura.com.br)
